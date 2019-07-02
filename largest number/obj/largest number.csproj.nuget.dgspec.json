@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/erinmfenton/Development/PracticeProblems/largest number/largest number.csproj": {}
+  },
+  "projects": {
+    "/Users/erinmfenton/Development/PracticeProblems/largest number/largest number.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/erinmfenton/Development/PracticeProblems/largest number/largest number.csproj",
+        "projectName": "largest number",
+        "projectPath": "/Users/erinmfenton/Development/PracticeProblems/largest number/largest number.csproj",
+        "packagesPath": "/Users/erinmfenton/.nuget/packages/",
+        "outputPath": "/Users/erinmfenton/Development/PracticeProblems/largest number/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/erinmfenton/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
