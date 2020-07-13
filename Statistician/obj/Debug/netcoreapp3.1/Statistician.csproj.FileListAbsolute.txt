@@ -1,0 +1,13 @@
+C:\Users\erinm\Development\PracticeProblems\Statistician\obj\Debug\netcoreapp3.1\Statistician.csprojAssemblyReference.cache
+C:\Users\erinm\Development\PracticeProblems\Statistician\obj\Debug\netcoreapp3.1\Statistician.AssemblyInfoInputs.cache
+C:\Users\erinm\Development\PracticeProblems\Statistician\obj\Debug\netcoreapp3.1\Statistician.AssemblyInfo.cs
+C:\Users\erinm\Development\PracticeProblems\Statistician\obj\Debug\netcoreapp3.1\Statistician.csproj.CoreCompileInputs.cache
+C:\Users\erinm\Development\PracticeProblems\Statistician\bin\Debug\netcoreapp3.1\Statistician.exe
+C:\Users\erinm\Development\PracticeProblems\Statistician\bin\Debug\netcoreapp3.1\Statistician.deps.json
+C:\Users\erinm\Development\PracticeProblems\Statistician\bin\Debug\netcoreapp3.1\Statistician.runtimeconfig.json
+C:\Users\erinm\Development\PracticeProblems\Statistician\bin\Debug\netcoreapp3.1\Statistician.runtimeconfig.dev.json
+C:\Users\erinm\Development\PracticeProblems\Statistician\bin\Debug\netcoreapp3.1\Statistician.dll
+C:\Users\erinm\Development\PracticeProblems\Statistician\bin\Debug\netcoreapp3.1\Statistician.pdb
+C:\Users\erinm\Development\PracticeProblems\Statistician\obj\Debug\netcoreapp3.1\Statistician.dll
+C:\Users\erinm\Development\PracticeProblems\Statistician\obj\Debug\netcoreapp3.1\Statistician.pdb
+C:\Users\erinm\Development\PracticeProblems\Statistician\obj\Debug\netcoreapp3.1\Statistician.genruntimeconfig.cache
