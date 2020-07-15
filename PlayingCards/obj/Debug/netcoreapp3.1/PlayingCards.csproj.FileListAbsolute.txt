@@ -1,0 +1,13 @@
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\bin\Debug\netcoreapp3.1\PlayingCards.exe
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\bin\Debug\netcoreapp3.1\PlayingCards.deps.json
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\bin\Debug\netcoreapp3.1\PlayingCards.runtimeconfig.json
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\bin\Debug\netcoreapp3.1\PlayingCards.runtimeconfig.dev.json
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\bin\Debug\netcoreapp3.1\PlayingCards.dll
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\bin\Debug\netcoreapp3.1\PlayingCards.pdb
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\obj\Debug\netcoreapp3.1\PlayingCards.csprojAssemblyReference.cache
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\obj\Debug\netcoreapp3.1\PlayingCards.AssemblyInfoInputs.cache
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\obj\Debug\netcoreapp3.1\PlayingCards.AssemblyInfo.cs
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\obj\Debug\netcoreapp3.1\PlayingCards.csproj.CoreCompileInputs.cache
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\obj\Debug\netcoreapp3.1\PlayingCards.dll
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\obj\Debug\netcoreapp3.1\PlayingCards.pdb
+C:\Users\erinm\Development\PracticeProblems\PlayingCards\obj\Debug\netcoreapp3.1\PlayingCards.genruntimeconfig.cache
