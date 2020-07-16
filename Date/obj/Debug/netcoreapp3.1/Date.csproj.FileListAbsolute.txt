@@ -1,0 +1,13 @@
+C:\Users\erinm\Development\PracticeProblems\Date\bin\Debug\netcoreapp3.1\Date.exe
+C:\Users\erinm\Development\PracticeProblems\Date\bin\Debug\netcoreapp3.1\Date.deps.json
+C:\Users\erinm\Development\PracticeProblems\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.json
+C:\Users\erinm\Development\PracticeProblems\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.dev.json
+C:\Users\erinm\Development\PracticeProblems\Date\bin\Debug\netcoreapp3.1\Date.dll
+C:\Users\erinm\Development\PracticeProblems\Date\bin\Debug\netcoreapp3.1\Date.pdb
+C:\Users\erinm\Development\PracticeProblems\Date\obj\Debug\netcoreapp3.1\Date.csprojAssemblyReference.cache
+C:\Users\erinm\Development\PracticeProblems\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfoInputs.cache
+C:\Users\erinm\Development\PracticeProblems\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfo.cs
+C:\Users\erinm\Development\PracticeProblems\Date\obj\Debug\netcoreapp3.1\Date.csproj.CoreCompileInputs.cache
+C:\Users\erinm\Development\PracticeProblems\Date\obj\Debug\netcoreapp3.1\Date.dll
+C:\Users\erinm\Development\PracticeProblems\Date\obj\Debug\netcoreapp3.1\Date.pdb
+C:\Users\erinm\Development\PracticeProblems\Date\obj\Debug\netcoreapp3.1\Date.genruntimeconfig.cache
