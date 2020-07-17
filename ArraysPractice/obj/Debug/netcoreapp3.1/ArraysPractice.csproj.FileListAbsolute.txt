@@ -1,0 +1,13 @@
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\bin\Debug\netcoreapp3.1\ArraysPractice.exe
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\bin\Debug\netcoreapp3.1\ArraysPractice.deps.json
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\bin\Debug\netcoreapp3.1\ArraysPractice.runtimeconfig.json
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\bin\Debug\netcoreapp3.1\ArraysPractice.runtimeconfig.dev.json
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\bin\Debug\netcoreapp3.1\ArraysPractice.dll
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\bin\Debug\netcoreapp3.1\ArraysPractice.pdb
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\obj\Debug\netcoreapp3.1\ArraysPractice.csprojAssemblyReference.cache
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\obj\Debug\netcoreapp3.1\ArraysPractice.AssemblyInfoInputs.cache
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\obj\Debug\netcoreapp3.1\ArraysPractice.AssemblyInfo.cs
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\obj\Debug\netcoreapp3.1\ArraysPractice.csproj.CoreCompileInputs.cache
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\obj\Debug\netcoreapp3.1\ArraysPractice.dll
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\obj\Debug\netcoreapp3.1\ArraysPractice.pdb
+C:\Users\erinm\Development\PracticeProblems\ArraysPractice\obj\Debug\netcoreapp3.1\ArraysPractice.genruntimeconfig.cache
