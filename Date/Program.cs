@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace Date
 {
@@ -6,9 +7,8 @@ namespace Date
     {
         static void Main(string[] args)
         {
-            Date todaysDate = new Date(11, 30, 2020);
-            todaysDate.incrementDate();
-            Console.WriteLine(todaysDate.getNumberDate());
+            Date todaysDate = new Date(6, 30, 2020);
+            Console.WriteLine(todaysDate.getWordDate());
         }
 
         public class Date
@@ -16,14 +16,26 @@ namespace Date
             public int month;
             public int day;
             public int year;
-
+            public Dictionary<int, string> map = new Dictionary<int, string>();
+                 
             public Date(int month, int day, int year)
             {
                 this.month = month;
                 this.day = day;
                 this.year = year;
+                map.Add(1, "January");
+                 map.Add(2, "February");
+                 map.Add(3, "March");
+                 map.Add(4, "April");
+                 map.Add(5, "May");
+                 map.Add(6, "June");
+                 map.Add(7, "July");
+                 map.Add(8, "August");
+                 map.Add(9, "September");
+                 map.Add(10, "October");
+                 map.Add(11, "November");
+                 map.Add(12, "December");
             }
-
             public void incrementDate()
             {
                 if (month == 1 && day == 31)
@@ -99,56 +111,7 @@ namespace Date
             }
             public string getWordDate()
             {
-                string newMonth = "";
-                if (month == 1)
-                {
-                    newMonth = "January ";   
-                }
-                if (month == 2)
-                {
-                    newMonth = "February ";
-                }
-                if (month == 3)
-                {
-                    newMonth = "March ";
-                }
-                if (month == 4)
-                {
-                    newMonth = "April ";
-                }
-                if (month == 5)
-                {
-                    newMonth = "May ";
-                }
-                if (month == 6)
-                {
-                    newMonth = "June ";
-                }
-                if (month == 7)
-                {
-                    newMonth = "July ";
-                }
-                if (month == 8)
-                {
-                    newMonth = "August ";
-                }
-                if (month == 9)
-                {
-                    newMonth = "September ";
-                }
-                if (month == 10)
-                {
-                    newMonth = "October ";
-                }
-                if (month == 11)
-                {
-                    newMonth = "November ";
-                }
-                if (month == 12)
-                {
-                    newMonth = "December ";
-                }
-                return newMonth + day.ToString() + ", " + year.ToString();
+                return map[month] + " " + day.ToString() + ", " + year.ToString();
             }
         }
     }
