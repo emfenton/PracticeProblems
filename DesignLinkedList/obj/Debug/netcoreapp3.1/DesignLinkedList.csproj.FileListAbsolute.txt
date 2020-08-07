@@ -1,0 +1,13 @@
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.csprojAssemblyReference.cache
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.AssemblyInfoInputs.cache
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.AssemblyInfo.cs
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.exe
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.deps.json
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.runtimeconfig.json
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.runtimeconfig.dev.json
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.dll
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\bin\Debug\netcoreapp3.1\DesignLinkedList.pdb
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.dll
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.pdb
+C:\Users\erinm\Development\PracticeProblems\DesignLinkedList\obj\Debug\netcoreapp3.1\DesignLinkedList.genruntimeconfig.cache
